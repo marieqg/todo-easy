@@ -1,10 +1,10 @@
 <!--  -->
 <p align="center">
+     <img alt="Next.js" src="https://www.vhv.rs/dpng/d/22-221315_react-native-logo-hd-png-download.png" width="60" />
 <h1 align="center">
 Easy To Do  </h1
 </p>
 
-![ReadBox Landing page](https://zupimages.net/up/21/03/ot7n.png)
 
 <p>This is a technical test made for training purposes.</p>
 
