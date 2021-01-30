@@ -37,7 +37,7 @@ npm install
 npm start
 ```
 
-3.  **Open the source code and start editing!**
+2.  **Open the source code and start editing!**
 
 **Final result :**
 
